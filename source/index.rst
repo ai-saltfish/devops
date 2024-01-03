@@ -11,7 +11,7 @@ Welcome to devops's documentation!
    :caption: Contents:
 
    RHCA/index
-   kubernetes/index.md
+   kubernetes/index
 
 
 

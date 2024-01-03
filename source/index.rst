@@ -10,6 +10,8 @@ Welcome to devops's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   RHCA/index
+
 
 
 Indices and tables
